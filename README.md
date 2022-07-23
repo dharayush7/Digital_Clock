@@ -1,46 +1,22 @@
 # Digital Clock
 
-GUI based programme.
+EXE version.
 ## Description :
 
 It is a Running Mordern Dijital Clock.
 ##  Requiredment :
 
-- import Tkinter
-- from calendar import month
-- import datetime
-
-
-To install this module run this command in terminal :
-
-For windows:
-```bash
-pip install tk
-```
-
-For linux :
-```bash
-sudo apt-get install python3-tk
-```
-
+NONE!
 ##  How to run this file :
 
-At frist clone thouse file or download a zip. Extract this zip file. And run those command.
-
-```bash
-  cd /downloads/Digital_Clock-master
-  ```
-And then,
-```bash
-  python3 Digital_Clock.py
-```
+Download the zip. Then, extract the zip. In side the 'Digital_Clock' folder there have a 'Digital_Clock.exe' 
+file. Just double click and run the programme.
 
 
 ## Screenshots
 
 
- 
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/Digital_Clock/image1.png?raw=true)
+
 
 ![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/Digital_Clock/image2.png?raw=true)
 
