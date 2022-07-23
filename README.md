@@ -1,4 +1,4 @@
-# Digital Clock
+# Digital Clock EXE
 
 EXE version.
 ## Description :
